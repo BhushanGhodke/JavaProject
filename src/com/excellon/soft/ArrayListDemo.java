@@ -10,6 +10,10 @@ public class ArrayListDemo {
 		list.add("Bhushan");
 		list.add("Ghodke");
 		list.add("Ahmednagar");
+		list.add("Prashant");
+		list.add(null);
+		list.add("Java");
+		list.add("Devloper");
 		
 		
 		for(String x: list) {
