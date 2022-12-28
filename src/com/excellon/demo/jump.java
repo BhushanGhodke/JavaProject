@@ -4,7 +4,8 @@ public class jump{
 
   public static void main(String[]args){
   
-  System.out.println("This is Jump Class");
+	  String s= "Java Developer Bhushan Ghodke";
+  
   }
 
 }
