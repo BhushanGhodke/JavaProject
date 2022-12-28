@@ -10,6 +10,7 @@ public class ArrayListDemo {
 		list.add("Bhushan");
 		list.add("Ghodke");
 		list.add("Ahmednagar");
-		System.out.println(list);
+		
+		list.stream().forEach(a->System.out.println(a));
 	}
 }
