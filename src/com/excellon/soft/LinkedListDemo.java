@@ -10,6 +10,7 @@ public class LinkedListDemo {
 		list.add("Bhushan");
 		list.add("Ghodke");
 		list.add("Ahmednagar");
-		System.out.println(list);
+		
+		list.stream().forEach(x->System.out.println(x));
 	}
 }
