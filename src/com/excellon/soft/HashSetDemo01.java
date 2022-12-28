@@ -12,7 +12,7 @@ public class HashSetDemo01 {
 		set. add(102);
 		set.add(1050);
 	
-		set.stream().forEach(a->System.out.println(a));
+		System.out.println(set);
 		
 	}
 }
