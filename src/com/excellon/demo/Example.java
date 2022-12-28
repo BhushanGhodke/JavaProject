@@ -1,9 +1,15 @@
-public class Example{
+package com.excellon.demo;
 
-public static void main(String[]args){
+public class Example {
 
-System.out.println("Full Stack Java Developer");
-  System.out.println("Hello All");
-  
-}
+	public static void main(String[] args) {
+
+		System.out.println("Full Stack Java Developer");
+
+		System.out.println("Hello Git");
+		System.out.println("Full Stack Java Developer");
+		System.out.println("Hello All");
+
+	}
+
 }
