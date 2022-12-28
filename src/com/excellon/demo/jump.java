@@ -1,6 +1,8 @@
-public class Jump{
+package com.excellon.demo;
 
-  pubic static void main(String[]args){
+public class jump{
+
+  public static void main(String[]args){
   
   System.out.println("This is Jump Class");
   }
