@@ -12,7 +12,9 @@ public class ArrayListDemo {
 		list.add("Ahmednagar");
 		
 		
-		//System.out.println(list);
+		for(String x: list) {
+			System.out.println(x);
+		}
 		
 		list.stream().forEach(a->System.out.println(a));
 		

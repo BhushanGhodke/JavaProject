@@ -11,7 +11,10 @@ public class LinkedListDemo {
 		list.add("Ghodke");
 		list.add("Ahmednagar");
 		
-	//	System.out.println(list);
+		for(String a: list) {
+			System.out.println(a);
+		}
+	
 		list.stream().forEach(x->System.out.println(x));
 	}
 }
