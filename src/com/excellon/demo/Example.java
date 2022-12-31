@@ -7,8 +7,12 @@ public class Example {
 		System.out.println("Full Stack Java Developer");
 
 		System.out.println("Hello Git");
-		System.out.println("Full Stack Java Developer");
-		System.out.println("Hello All");
+	
+		System.out.println("I am workig on bug 100");
+		/*
+		 * Some random code
+		 * 
+		 */
 
 	}
 
